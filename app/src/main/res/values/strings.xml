@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L04Reservation01</string>
+    <string name="EnterName">Please Enter Your Name</string>
+    <string name="EnterNumber">Please Enter Your Phone Number</string>
+    <string name="EnterGroupSize">Please Enter Your Group Size</string>
+    <string name="YesSmoking">Yes</string>
+    <string name="NoSmoking">No</string>
+    <string name="EnterRequest">Please Enter Your Request</string>
+    <string name="ConfirmBooking">Confirm Booking</string>
+    <string name="Reset">Reset</string>
+</resources>
